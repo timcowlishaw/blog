@@ -4,3 +4,5 @@ pygments:     true
 paginate:     5
 exclude:
   - vendor
+rdiscount:
+  extensions: [footnotes]
