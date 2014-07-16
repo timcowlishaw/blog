@@ -5,4 +5,4 @@ paginate:     5
 exclude:
   - vendor
 rdiscount:
-  extensions: [footnotes]
+  extensions: [ footnotes ]

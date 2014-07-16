@@ -67,4 +67,4 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  rdiscount
+  rdiscount (>= 2.0.7)
