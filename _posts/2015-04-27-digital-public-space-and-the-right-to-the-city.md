@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Right to the Network: A radical urbanism of digital public space
+title: "The Right to the Network: A radical urbanism of digital public space"
 ---
 
 *(This is an essay submitted for the May 2015 issue of [Contributoria](https://www.contributoria.com/), in

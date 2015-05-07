@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD week 1:  19th-24th April 2015
+title: "PhD week 1:  19th-24th April 2015"
 ---
 
 I haven't written anything here for ages, but a lot's been going on. I've moved
