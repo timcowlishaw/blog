@@ -33,9 +33,10 @@ Cites:
 Experiments into differences in user behaviour between finding and refinding tasks in information retrieval. Highlights the importance of the concept of post-value recall (the situation whereby a user only discovers that the information is valuable after having accesssed it), and the role of procedural and episodic memory in refinding tasks.
 
 Cites:
-   - [Post-Valued Recall Web Pages: User Disorientation Hits The Big Time](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.7688) (Wen 2003) - source for concept of Post-value recall
+
+  - [Post-Valued Recall Web Pages: User Disorientation Hits The Big Time](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.7688) (Wen 2003) - source for concept of Post-value recall
 
 ## [Rethinking the web as a personal archive](http://research.microsoft.com/apps/pubs/default.aspx?id=183834) (Lindley, Marshall, Banks, Sellen, Regan)
 
-Interview-based qualitative study concerned with how users store, organize and interact with personal media online. Mostly concerned with media created by the participants, but has applications to refinding of information in general, (several participants saw the ability to refind information as essentially equivalent to ownership of it).
+Interview-based qualitative study concerned with how users store, organize and interact with personal media online. Mostly concerned with media created by the participants, but has applications to refinding of information in general (several participants saw the ability to refind information as essentially equivalent to ownership of it).
 
