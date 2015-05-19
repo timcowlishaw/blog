@@ -1,4 +1,7 @@
---- layout: post title: "Weeknotes:  1st - 19th May 2015" ---
+---
+layout: post
+title: "Weeknotes:  1st - 19th May 2015"
+---
 
 (I've decided to write more general weeknotes, rather than concentrating
 specifically on my PhD studies here - Although it's obviously what I'm spending
