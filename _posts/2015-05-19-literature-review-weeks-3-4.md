@@ -8,8 +8,8 @@ A survey of existing literature on context-aware recommendations, with an emphas
 
 Cites:
 
- - [Context-Aware Recommender Systems](http://dl.acm.org/citation.cfm?id=1454068) (Adomavicius and Tuzhilin, 2011) - Earlier work on the use of context in recommendations in general
- - [An Operational Definition of Context](http://dl.acm.org/citation.cfm?id=1770848) (Zimmerman, Lorenz and Opperman 2007) - Work outlining definition and categorisation of interaction contexts.
+* [Context-Aware Recommender Systems](http://dl.acm.org/citation.cfm?id=1454068) (Adomavicius and Tuzhilin, 2011) - Earlier work on the use of context in recommendations in general
+* [An Operational Definition of Context](http://dl.acm.org/citation.cfm?id=1770848) (Zimmerman, Lorenz and Opperman 2007) - Work outlining definition and categorisation of interaction contexts.
 
 
 ## [HypTrails - A Bayesian Approach for Comparing Hypotheses about Human Trails on the Web](http://arxiv.org/abs/1411.2844) (Singer, Helic, Hotho and Strohmaier 2015)
@@ -18,14 +18,14 @@ Proposes a general approach for comparing and evaluating hypotheses about web-br
 
 Cites:
 
- - [Detecting memory and structure in human navigation patterns using markov chain models of varying order](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102070) (P. Singer, D. Helic, B. Taraghi, and M. Strohmaier 2014) - Prior work on use of Markov chains for modelling browsing behaviour:
- - [Inferring markov chains: Bayesian estimation, model comparison, entropy rate, and out-of-class modeling](http://arxiv.org/abs/math/0703715) (C. C. Strelioff, J. P. Crutchfield, and A.W. Hübler 2007) - Text on markov chain models and bayesian estimation in general
- - [Stream prediction using a generative model based on frequent episodes in event sequences](http://research.microsoft.com/apps/pubs/default.aspx?id=71393) (S. Laxman, V. Tankasali, and R.W. White 2008) - previous work outlining an analagous use of Bayes Factors for comparing hypotheses
- - [Bayesian model selection and model averaging](http://www.sciencedirect.com.libproxy.ucl.ac.uk/science/article/pii/S0022249699912786) (Wasserman 2000) - Text on bayesian model selection in general
- - Previous work on the 'Trail roulette' approach to constructing priors for experimental hypotheses:
-  - Biostatistics and the medical research council (Gore 1987)
-  - [Probablistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-Pilon 2014)
-  - [Eliciting univariate probability distributions](http://www.jeremy-oakley.staff.shef.ac.uk/Oakley_elicitation.pdf) (Oakley 2010)
+* [Detecting memory and structure in human navigation patterns using markov chain models of varying order](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102070) (P. Singer, D. Helic, B. Taraghi, and M. Strohmaier 2014) - Prior work on use of Markov chains for modelling browsing behaviour:
+* [Inferring markov chains: Bayesian estimation, model comparison, entropy rate, and out-of-class modeling](http://arxiv.org/abs/math/0703715) (C. C. Strelioff, J. P. Crutchfield, and A.W. Hübler 2007) - Text on markov chain models and bayesian estimation in general
+* [Stream prediction using a generative model based on frequent episodes in event sequences](http://research.microsoft.com/apps/pubs/default.aspx?id=71393) (S. Laxman, V. Tankasali, and R.W. White 2008) - previous work outlining an analagous use of Bayes Factors for comparing hypotheses
+* [Bayesian model selection and model averaging](http://www.sciencedirect.com.libproxy.ucl.ac.uk/science/article/pii/S0022249699912786) (Wasserman 2000) - Text on bayesian model selection in general
+* Previous work on the 'Trail roulette' approach to constructing priors for experimental hypotheses:
+    * Biostatistics and the medical research council (Gore 1987)
+    * [Probablistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-Pilon 2014)
+    * [Eliciting univariate probability distributions](http://www.jeremy-oakley.staff.shef.ac.uk/Oakley_elicitation.pdf) (Oakley 2010)
 
 
 ## [Refinding is not finding again](https://vtechworks.lib.vt.edu/handle/10919/20183) (Capra, Pinney and Pérez-Quiñoes 2005)
@@ -34,7 +34,7 @@ Experiments into differences in user behaviour between finding and refinding tas
 
 Cites:
 
-  - [Post-Valued Recall Web Pages: User Disorientation Hits The Big Time](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.7688) (Wen 2003) - source for concept of Post-value recall
+* [Post-Valued Recall Web Pages: User Disorientation Hits The Big Time](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.7688) (Wen 2003) - source for concept of Post-value recall
 
 ## [Rethinking the web as a personal archive](http://research.microsoft.com/apps/pubs/default.aspx?id=183834) (Lindley, Marshall, Banks, Sellen, Regan)
 
