@@ -334,3 +334,7 @@ a:hover {
   }
 
 }
+
+.post li {
+  margin-left: 2em;
+}
