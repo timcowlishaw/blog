@@ -3,7 +3,7 @@ layout: post
 title: Literature review, week 2
 ---
 
-## Understanding User Productivity - M Picq 2014
+### Understanding User Productivity - M Picq 2014
 
 This is a Masters thesis supervised by Emine and Filip from last year, describing a project to measure the effect of time-tracking tools on a users productivity. It provides a useful overview of the literature on tracking and analysing computer usage, and an outline of the process and technical challenges of writing a time-tracking application for Windows, as well as the analysis of user behaviour itself.
 One drawback of the experiment (which is highlighted within the paper's own analysis) is the fact that productivity is inherently subjective. While the paper reports a statistically significant (\\( p \\leq 0.01 \\)) increase in user productivity, partitioning the users into those using their computers for professional purposes, and those using them in a personal capacity, indicates that the effect is only significant for the 'professional' users, possibly indicating that the dependent variable in the experiment (a boolean 'productive' vs. 'not productive' judgement per application or site provided by the experimentor) encodes a particular set of assumptions about what constitutes 'productive' behaviour which are biased towards specific processional situations. This could be investigated further (as the report acknowledges) by allowing users to define for themselves which activities are considered productive or not. This only requires a slight relaxation of the assumptions of the experiment: rather than assuming that the classification of an activity as being productive or not-productive is constat globally, we have to assume that it is constant with respect to time for each user. (Of course, this is still a simplifying assumption, but a weaker one than the original study makes). There is also the possibility of some interaction with the results from the reflective behaviour of classifying ones own behaviours, but this could be a useful line of enquiry in its own right - 'reflection' being one of [Whitakker and Sellen]('http://research.microsoft.com/apps/pubs/default.aspx?id=130843')'s  'Five Rs' of lifelogging user behaviour).
@@ -25,7 +25,7 @@ Some pointers to other interesting work from the citations:
     * [Usage Patterns of Collaborative Tagging Systems](http://jis.sagepub.com/content/32/2/198.short?rss=1&ssource=mfc) (Golder and Huberman 2006)
     * [Lightweight Tagging Expands Information and Activity Management Practices](http://dl.acm.org/citation.cfm?id=1518746) (Oleksik, Wilson, Tashman, Mendes Rodrigues, Kazai, Smyth and Jones 2009)
 
-## ["It's simply integral to what I do": Enquiries into how the Web is Weaved into Everyday Life](http://dl.acm.org/citation.cfm?id=2187836.2187979&coll=DL&dl=ACM) - Lindley, Meek, Sellen and Harper 2012
+### ["It's simply integral to what I do": Enquiries into how the Web is Weaved into Everyday Life](http://dl.acm.org/citation.cfm?id=2187836.2187979&coll=DL&dl=ACM) - Lindley, Meek, Sellen and Harper 2012
 
 A diary study which set out to update existing taxonomies of web activities in order to better reflect the ways in which use of the web is intertwined with everyday life and situated within it. Using a grounded theory analysis of the diaries and interviews with the study participants, the paper instead proposes a new taxonomy of 5 "modes" of internet use, which cut across domain, media type and application: ("Respite", "Orienting", "Opportunistic Use", "Purposeful use" and "Lean-back Internet") as well as highlighting two material qualities of the web which enable these modes of use. This could present an interesting opportunity for understanding a more subjective notion of productivity as discussed above - it might be interesting to measure how these 5 modes correlate with self-reported productivity, whether mode can be inferred from user interaction, and whether reporting time spent in each mode of interaction (in a manner analagous to  Picq 2014) produces any improvement in self-reported productivity.
 
@@ -49,7 +49,7 @@ Useful citations:
   the gap](https://www.ideals.illinois.edu/handle/2142/13654) (Stebbins, 2009)
 * [Plastic: A metaphor for integrated technologies](http://dl.acm.org/citation.cfm?id=1409667) (Rattenbury, Nafus and Anderson 2008) - citation for the concept of the 'placticity' of the web.)
 
-## [Cross-Device Search](http://research.microsoft.com/en-us/um/people/ryenw/talks/pdf/MontanezCIKM2014.pdf) (Montañez, White and Huang, 2014)
+### [Cross-Device Search](http://research.microsoft.com/en-us/um/people/ryenw/talks/pdf/MontanezCIKM2014.pdf) (Montañez, White and Huang, 2014)
 
 Study based on commercial search engine logs investigating how and when users transition between two devices between successive queries. Demonstrates a predictive model both for the probability that a device transition occurs, and the probablity of the next device type conditioned on a transition having occured. (The unconditioned probabillity of the next device is less interesting as it is dominated by the large prior probability that no switch occured, hence the 'previous device' feature dominates and the most likely next device is always the previous one). Interesting findings: the topic of the previous query and the overall probability of a transition conditioned on the current device are good predictors for the probability of a transition occuring, however they do not predict the next device well (which is overwhelmingly predicted by the user-specific device transition probability - possibly because the overwhelming majority of users in the study who used more than one device used two). Suggests opportunities for further work including a qualatitive study investigating the reasons for device transitions and the physical way in which they happen, and a similar quantitative study investigating device transitions between search sessions, rather than individual queries.
 
@@ -62,7 +62,7 @@ Interesting cites:
     * [Mobile taskflow in context: A screenshot study of smartphone usage](http://dl.acm.org/citation.cfm?id=1753631) (Karlson, Iqbal, Meyers, Ramos, Lee and Tang 2010)
 * [Good abandonment in mobile and PC internet search](http://dl.acm.org/citation.cfm?id=1571951) (Li, Huffman and Tokuda 2009) - 'Good abandonment' - where a user's information need is satisfied without needing to access a resource is mentioned in passing, and isn't something I'd considered as an outcome of an IR task before. This paper expands on this.
 
-## Topic-by-Topic activity estimation for knowledge work lifelog (Okamoto 2014)
+### Topic-by-Topic activity estimation for knowledge work lifelog (Okamoto 2014)
 
 Report on a prototype lifelogging application to assist knowledge workers in reviewing their activities. Builds on prior work by the same researcher, incorporating topic-modelling (with Latent Dirichlet Allocation) over the lifelog to generate annotations for summarisation and querying.
 
@@ -72,7 +72,7 @@ Cites:
 * [Switch Detector: An activity spotting system for desktop](http://dl.acm.org/citation.cfm?id=2063947&dl=ACM&coll=DL&CFID=504937992&CFTOKEN=15067425) (Mirza, Chen, Chen, Hussain and He 2011) - Related prior work
 * [Detecting and correcting user activity switches: algorithms and interfaces](http://dl.acm.org/citation.cfm?id=1502670&dl=ACM&coll=DL&CFID=504937992&CFTOKEN=15067425) (Irvine, Bao, Goodman, Kolibaba, Tran, Carl, Kirschner, Stumpf and Dietterich 2009) - Related prior work
 
-## [Kraken.me - Multi-Device User Tracking Suite](http://dl.acm.org/citation.cfm?id=2638728.2641307) (Schweizer and Schmidt 2014)
+### [Kraken.me - Multi-Device User Tracking Suite](http://dl.acm.org/citation.cfm?id=2638728.2641307) (Schweizer and Schmidt 2014)
 
 Introduces [Kraken.me](http://kraken.me) - a suite of tools for activity tracking across devices, including information from soft and physical sensors, as well as social information about users. Argues for a holistic approach to lifelog data collectio in order to allow exploratory work to be carried out in the future. Also lays out an number of possible future research directions using the data they plan to gather.
 
@@ -84,7 +84,7 @@ Cites:
 * [UICO: An ontology-based user interaction context model for Automatic Task Detection on the Computer Desktop](http://dl.acm.org/citation.cfm?id=1552270) (Rath and Lindstaedt 2009) - More prior work on activity recognition with machine learning
 * [Attention Please! Learning Analytics for Visualization and Recommendation](http://dl.acm.org/citation.cfm?id=2090118) (Duval 2011) - Use of Activity Logging for Technology Assisted Learning
 
-## [Switch Detector: An Activity Spotting System for Desktop](http://dl.acm.org/citation.cfm?id=2063947&dl=ACM&coll=DL&CFID=504937992&CFTOKEN=15067425) (Mirza, Chen, Chen, Hussain and He 2011)
+### [Switch Detector: An Activity Spotting System for Desktop](http://dl.acm.org/citation.cfm?id=2063947&dl=ACM&coll=DL&CFID=504937992&CFTOKEN=15067425) (Mirza, Chen, Chen, Hussain and He 2011)
 
 A novel algorithm for detecting activity switches on desktop computers, along with empirical analysis via a user study. Works by grouping all pairs of individual actions where the time between them is less than to the weekly average for that user and application. This approach is justified by empirical evidence gathered from activity logs. Results show an improvement over prior work and baseline in empirical study, but the significance of this is not reported.
 Cites:

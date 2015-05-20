@@ -1,26 +1,3 @@
-/*
- __                  __
-/\ \                /\ \
-\ \ \___   __  __   \_\ \     __
- \ \  _ `\/\ \/\ \  /'_` \  /'__`\
-  \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
-   \ \_\ \_\/`____ \ \___,_\ \____\
-    \/_/\/_/`/___/> \/__,_ /\/____/
-               /\___/
-               \/__/
-
-Hyde is an elegant, open source, mobile first theme for Jekyll.  It includes
-lightweight styles and placeholder content to get you up and running with a
-simple blog in no time.
-
-Designed, built, and released under MIT license by @mdo.
-
-Learn more at http://andhyde.com or https://github.com/mdo/hyde.
-
-*/
-
-
-
 /* Body resets
 -------------------------------------------------- */
 
@@ -37,11 +14,11 @@ body {
 }
 
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: 'News Cycle';
   font-size: 16px;
   line-height: 1.5;
-  color: #454441;
-  background-color: #fff;
+  background-color: #ddd;
+  color: #444;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -49,13 +26,19 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  font-family: 'LilGrotesk';
+  font-weight: normal;
+  font-style: normal;
 }
+
 h1 {
   font-size: 40px;
+  color: #44cccc;
 }
 h2 {
   margin-top: 20px;
   font-size: 32px;
+  color: #44cccc;
 }
 h3 {
   margin-top: 24px;
@@ -67,15 +50,12 @@ h4, h5, h6 {
 }
 
 p {
-  margin: 0 0 15px;
+  margin: 0 0 0.5em;
 }
 
 ul, ol {
   padding: 0;
-  margin: 0 0 15px;
-}
-li {
-  color: #888580;
+  margin: 0 ;
 }
 
 hr {
@@ -139,19 +119,20 @@ pre code {
 }
 .highlight pre {
   margin-bottom: 0;
+  background-color: transparent;
 }
 
 /* Quotes */
 blockquote {
-  padding: 0 0 0 20px;
-  margin: 15px 30px 15px 0;
-  border-left: 5px solid #eee;
+  font-size: 1.5em;
+  margin: 1em 2em 1em 2em;
 }
+
 blockquote p {
   margin-bottom: 0;
-  color: #7a7a7a;
   text-indent: -0.4em;
 }
+
 blockquote p:before {
   content: '\201C';
 }
@@ -166,17 +147,6 @@ img {
 }
 
 
-/* Links
--------------------------------------------------- */
-
-a {
-  font-weight: 600;
-  color: #222;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
 
 
 /* Scaffolding
@@ -184,30 +154,32 @@ a:hover {
 
 /* Header */
 .masthead {
-  color: #fff;
-  background-color: #2a2a2a;
 }
 .masthead-inner {
   padding: 20px;
 }
 .masthead h1 {
   margin-top: 0;
-  font-family: "Abril Fatface";
+  font-family: 'LilGroteskBold';
+  font-weight: normal;
+  font-style: normal;
+  color: #44cccc;
 }
 .masthead .lead {
   font-size: 20px;
   font-weight: 300;
   margin-bottom: 0;
+  font-family: 'LilGrotesk';
+  font-weight: normal;
+  font-style: normal;
 }
 .masthead a {
-  color: #fff;
 }
 
 /* Footer area of masthead */
 .colophon {
-  margin-top: 20px;
-  color: #7a7a7a;
 }
+
 .colophon-links {
   margin: 0 0 15px;
   list-style: none;
@@ -305,7 +277,7 @@ a:hover {
   }
   .masthead-inner {
     position: absolute;
-    bottom: 0;
+    top: 0;
     right: 0;
     left: 0;
   }
@@ -335,6 +307,54 @@ a:hover {
 
 }
 
-.post li {
-  margin-left: 2em;
+p, li {
+  line-height: 1.75em;
+  font-size: 1em;
+}
+
+a {
+  color: #222;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #444;
+}
+
+.related ul {
+  list-style-type: none;
+}
+
+.post ul {
+  list-style-type: none;
+  padding: 0 0 0 1em;
+
+}
+
+.post ul li:before {
+  content: "\2013";
+  position: relative;
+  left: -0.5em;
+}
+
+.post ul li {
+  text-indent: -0.5em;
+}
+
+.post ol {
+  padding: 0 0 0 1em;
+}
+
+h1 a, h2 a {
+  text-decoration: none;
+  color: #44cccc;
+}
+
+h1 a:hover, h2 a:hover {
+  text-decoration: underline;
+  color: #44cccc;
 }

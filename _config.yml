@@ -6,3 +6,8 @@ exclude:
   - vendor
 rdiscount:
   extensions: [ autolink, footnotes, smart ]
+
+syntax-highlighting:
+  enabled : true
+  css: solarized-light.css
+
