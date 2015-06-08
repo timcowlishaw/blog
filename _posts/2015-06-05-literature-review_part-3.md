@@ -3,8 +3,7 @@ layout: post
 title: Literature review, part 3
 ---
 
-### [Understanding Mobile Web and Mobile Search Use in Today's Dynamic Mobile
-Landscape](http://dl.acm.org/citation.cfm?id=203738) (Church and Oliver 2011)
+### [Understanding Mobile Web and Mobile Search Use in Today's Dynamic MobileLandscape](http://dl.acm.org/citation.cfm?id=203738) (Church and Oliver 2011)
 
 Diary and interview study focusing on ways in which people use the mobile web
 and mobile search, as well as their motivations for doing so. The study builds
@@ -36,8 +35,7 @@ between devices and cross-device search.
     * [Always on: A framework for understanding personal web motivations, behaviors
 and contexts of use](http://www.igi-global.com/article/always-framework-understanding-personal-mobile/37459) (Taylor, Samuels and Ramey 2009)
 
-### [Understanding the importance of location, time and people in mobile local
-search behaviour](http://research.microsoft.com/apps/pubs/default.aspx?id=153023) (Teevan, Karlson, Amini, Brush and Krumm 2011)
+### [Understanding the importance of location, time and people in mobile local search behaviour](http://research.microsoft.com/apps/pubs/default.aspx?id=153023) (Teevan, Karlson, Amini, Brush and Krumm 2011)
 
 Survey on mobile search use by Microsoft employees. It specifically enquires about
 'local search' on mobile devices - searches for places with a regionalised
@@ -90,9 +88,7 @@ resources in mobile HCI](http://dl.acm.org/citation.cfm?id=1055101) (Oulasvirta,
     * [Gather customer's real useage on mobile phones](http://dl.acm.org/citation.cfm?id=1085828) (Demumieux and Losquin, 2005)
     * [Myexperience: a system for in situ tracing and capturing of user feedback on mobile phones](http://dl.acm.org/citation.cfm?id=1247670) (Froelich, Chen, Consolvo, Harrison and Landay, 2007)
 
-### [Are episodic context features helpful for refinding tasks? Lessons learnt
-from a case study with lifelogs](http://doras.dcu.ie/20388/) (Chen and Jones
-2014)
+### [Are episodic context features helpful for refinding tasks? Lessons learntfrom a case study with lifelogs](http://doras.dcu.ie/20388/) (Chen and Jones 2014)
 
 Study investigating the effect of episodic / autobbiographical cues from
 lifelogs on personal information refinding. Includes lots of valuable background
@@ -123,8 +119,7 @@ Useful citations:
 * [Exploring digital elements for
 visualizing time in personal information refinding](http://doras.dcu.ie/15905/) (Chen and Jones 2009) - previous work by same authors on desktop lifelogs for refinding.
 
-### [Real-time task recognition based on knowledge workers' computer
-activities](http://dl.acm.org/citation.cfm?id=2448170) (Koldijk, van Staalduinen, Neerincx and Kraaij 2012)
+### [Real-time task recognition based on knowledge workers' computer activities](http://dl.acm.org/citation.cfm?id=2448170) (Koldijk, van Staalduinen, Neerincx and Kraaij 2012)
 
 Field study testing the use of an automatic tool for classifying computer
 interaction data into tasks. Shows good classification accuracy on
@@ -155,8 +150,7 @@ on Dynamic Bayesian Networks Probabilistic
 Intention Recognition](http://link.springer.com/article/10.1007%2Fs10846-005-9018-0) (Tahboub 2006)
 
 
-### [Task behaviours during web search: The difficulty of assigning labels](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4755491&tag=1)
-(Russell, Tang, Kellar and Jeffries 2009)
+### [Task behaviours during web search: The difficulty of assigning labels](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4755491&tag=1) (Russell, Tang, Kellar and Jeffries 2009)
 
 Study investigating labelling of queries with search task information - finding
 that activity labelled by the searcher themselves is far more accurate than
