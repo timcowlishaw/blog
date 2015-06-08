@@ -65,12 +65,12 @@ android application which was useful in its own right - (a dashboard widget givi
 * Phones are moved more when navigation and messaging applications are in use.
   In contrast, less motion is observed during the use of web browsers than other
 applications.
-
 * Most apps are used in portrait mode the majority of the time (although users
   often briefly rotate the phone into landscape mode for text entry). Media
 applications, however, are predominantly used in landscape mode.
 
 Some useful citations:
+
 * Previous work on the use of application stores to perform HCI studies:
     * [App stores: external validity for mobile HCI](http://dl.acm.org/citation.cfm?id=2427084) (Henze and Pielot 2013)
     * [My app is an experiment: Experience from user studies in mobile app stores](http://dl.acm.org/citation.cfm?id=2440783) (Boll, Henze, Pielot, Poppinga and Schinke, 2011)
@@ -125,6 +125,7 @@ Field study testing the use of an automatic tool for classifying computer
 interaction data into tasks. Shows good classification accuracy on
 a comparitively small amount of training data, and highlights a number of other
 useful insights:
+
 * workers tend to classify activities in terms of purpose or intent, rather than
   by application, or type of activity.
 * while classification accuracy within individual users activities was good,
@@ -157,6 +158,7 @@ that activity labelled by the searcher themselves is far more accurate than
 activity labelled by a third-party.
 
 Citations:
+
 * Various taxonomies of search task and information need:
     * [A Taxonomy of Web Search](http://dl.acm.org/citation.cfm?id=792552) (Broder 2002)
     * [Understanding User Goals in Web Search](http://dl.acm.org/citation.cfm?id=988675) (Rose and Levinson 2004)
