@@ -9,6 +9,12 @@ speaking very well, however, I've not had as much time to dedicate to my work as
 I'd like this week as, along with the rest of my group, I've been spending much
 of my time marking [Information Retrieval](http://www.cs.ucl.ac.uk/students/syllabus/mscml/gi15_information_retrieval_data_mining/) exam papers. This was an eye-opening exercise: both in terms of revising some basics of the subject with which I was a little rusty, and in terms of seeing first hand how others approach exams, and how they are marked.
 
+In addition, I also wasted a little bit of time at the beginning of the week due
+to the fact that my Mendeley database managed to corrupt itself, losing a lot of
+the organization I'd done of my research paper library. This seemed
+like a good excuse to ditch Mendeley entirely (I've wanted to move away from
+using it since I realised they were owned by Elsevier, who [are shits](https://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/).) Thankfully, the open-source [Zotero](https://www.zotero.org/) does everything I need (along with the [Zotfile](http://zotfile.com/) plugin) and so far is easier to use than Mendeley. It was also pretty painless to transfer my library across (With the exception of the folder structure I'd created, but this only took an hour or so of dragging and dropping in front of the TV one evening to recreate), and crucially, it offers a solution to the problem I described last week of keeping track of relationships between papers, as it allows you to 'link' related publications.
+
 However, I did also found the time to [review some of the
 literature](http://blog.timcowlishaw.co.uk/2015/06/05/literature-review_part-3/)
 on task identification, as well as beginning my research plan for the next few
