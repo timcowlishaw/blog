@@ -34,7 +34,7 @@ after my supervisory meetings on Wednesday, and roughly dividing it into days.
 This has had a marked improvement on my productivity, and also helps me get back
 into the flow of things quickly on a Monday morning!
 
-Other work news:
+Some other work news:
 
 I had a useful chat to [Jiyin](https://jiyinhe.wordpress.com) about our shared
 work interests and opportunities for working together. We've realised that as
@@ -56,28 +56,20 @@ Vector Machines in the future).
 
 ### Interesting links and other reading ###
 
-* [http://pandaproject.net/](PANDA) is an open-source, searchable newsroom database. Having worked with [BBC News Labs](http://www.bbcnewslabs.co.uk/) in the past, I'm really interested in applications of my research to journalism and news gathering in particular, and have been thinking about opportunities for research in this direction. It's encouraging that others in the open-source community are thinking about newsroom information needs specifically and developing tools to support them, and might also be a good opportunity for a future collaboration?
-
+* [PANDA](http://pandaproject.net/) is an open-source, searchable newsroom database. Having worked with [BBC News Labs](http://www.bbcnewslabs.co.uk/) in the past, I'm really interested in applications of my research to journalism and news gathering in particular, and have been thinking about opportunities for research in this direction. It's encouraging that others in the open-source community are thinking about newsroom information needs specifically and developing tools to support them, and might also be a good opportunity for a future collaboration?
 * [Fetching](http://fetching.io/) announced the public release of their API, and
   I've got in touch to request a key and introduce myself, with a view to
 explore opportunities for collaboration - I've been using their self-hosted
 version for a couple of months, and it's really useful for refinding previously
 seen information on the web.
-
 * [Paul Krugman](http://www.nytimes.com/2015/05/25/opinion/paul-krugman-the-big-meh.html) wrote a great short piece on reasons to be skeptical of over-exuberant claims about the effect of technological progress on the economy
-
 * [This essay](http://www.buzzfeed.com/whyman/the-kebab-shop-cat-tweet-and-the-inauthenticity-of-hv17) on content, experience, and the [kebab shop cat tweet](https://twitter.com/thwphipps/status/545882463911030784) is both the first time I've seen Walter Benjamin quoted on Buzzfeed, and an exellent thought-provoking examination of the social role of 'viral' content.
-
 * [Ich Bin Capital](http://motherboard.vice.com/read/i-am-capital) - a piece on
   the economics of personal data and how our identies are becoming commodified,
 that makes many of the points I was getting at in my [Right to the Network](http://blog.timcowlishaw.co.uk/2015/04/27/digital-public-space-and-the-right-to-the-city/) essay in a far clearer and more powerful way.
-
 * [A fascinating story](http://www.qsl.net/n1irz/woodpeck.html) (via [Simon](http://www.polkaspots.com/)) about how radio hams in the 1970s 'ganged up' to disrupt a Soviet radar system.
-
 * [Robert Clayton's series of photographs](https://i-d.vice.com/en_gb/article/estate-post-industrial-ruin-at-the-end-of-thatchers-britain) of a Birmingham council estate in 1991 - A poignant reminder of what's changed and what's stayed the same in post-industrial Britain
-
 * [Socialist in the city](https://socialistinthecity.wordpress.com/2015/05/30/greece-buy-stocks/)'s post on why the Greek bailout is an issue of existential importance to capitalism and the finance industry in that it represents a collision between democracy and financial obligations.
-
 * [An interesting piece](http://www.electronicbookreview.com/thread/firstperson/serial) on The Wire (which I'm half way through watching again)
   and its relationship to other forms of media - the novel and the video game,
 as well as the tension between the institutions and indivuduals depicted by it
@@ -86,9 +78,7 @@ brave individuals triumph over adversity, by depicting all individuals as
 essentially lacking agency - being blown around by the forces of the flawed
 institutions of which they're a part. In David Simon's words: "The town is what
 it is.")
-
 * A blog post that really chimed with me on the [nonsense of 'aspiration'](http://labourelection2015.com/2015/05/25/labour-leadership-contenders-aspiration-isnt-enough/) in political discourse - making the point that aspiration by definition ccorresponds to *unrealiseable* ambitions and goals, rather than achievable ones, and achieves it's rhetorical power precisely through it's unattainability.
-
 * The always-excellent Chris Dillow on [What Labour can learn from Dave
   Brailsford](http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2015/05/the-brailsfordian-road-to-socialism.html) and the importance of democratic decision making and incremental improvement.
 
