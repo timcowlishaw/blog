@@ -12,7 +12,7 @@ as a predictable bit of clich&eacute;d ad-hominem, where it not for the fact tha
 well, it can sometimes be true. And it's not just the right who are pointing it
 out; [Emma Burnell, writing for LabourList](http://labourlist.org/2015/06/whats-so-moral-about-a-crusade/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LabourListLatestPosts+%28LabourList%29)
 writes eloquently about how a Labour party which campaigns in the style of
-Harold Wilson's 'moral crusade' might well alienates many of those it seeks to
+Harold Wilson's 'moral crusade' might well alienate many of those it seeks to
 represent.
 
 This isn't just a question of public perception however, it is also, crucially,
