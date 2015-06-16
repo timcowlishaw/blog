@@ -45,7 +45,7 @@ around [Calke Park](http://www.nationaltrust.org.uk/calke-abbey/) and visiting t
 about the role of human neurology as a model for machine learning, and
 a discussion with Zoubin Ghahramani about his "Automated Statistician" project.
 * An insightful analysis of the economic incentives for [Facebook's real names
-  policy](https://www.jacobinmag.com/2015/06/facebook-real-names-lgbtq-zuckerberg/), and a call for decommodified digital social space which echos my own thoughts on [digital public space](contributoria.com/issue/2015-05/551000321045c8eb71000132).
+  policy](https://www.jacobinmag.com/2015/06/facebook-real-names-lgbtq-zuckerberg/), and a call for decommodified digital social space which echoes my own thoughts on [digital public space](contributoria.com/issue/2015-05/551000321045c8eb71000132).
 * Zoe Williams, [on fine, righteously angry
   form](http://www.theguardian.com/commentisfree/2015/jun/09/we-dont-live-to-work-we-work-to-live-why-dont-we-say-so),
 writing about the need for a politics that isn't ashamed of leisure.
