@@ -50,8 +50,7 @@ Interesting links: (A bumper crop since I've had plenty of time to read!)
  - A fascinating bit of archive video of [my home town in the 70s](http://player.bfi.org.uk/film/watch-welcome-to-redhill-the-jewel-of-the-south-1975/#.VZ2FtzQrE-o.facebook).
  - A [critique of the aesthetics of DeepDream](http://jtnimoy.com/blogs/projects/50616707-deepdream-avoiding-kitsch), making a case for more critically engaged artistic uses of the technology.
  - George Orwell on ['Why Socialists Don't believe in
-   fun'](http://orwell.ru/library/articles/socialists/english/e_fun)
-- a fascinating essay on utopia in politics and fiction.
+   fun'](http://orwell.ru/library/articles/socialists/english/e_fun) - a fascinating essay on utopia in politics and fiction.
  - Paul Mason's essay on the 'sharing economy' and [the end of capitalism](http://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun), as well as Jacobin's [critique of it](https://www.jacobinmag.com/2015/07/mason-guardian-capitalism-new-economy-post-work/).
 
 Music: [Intergalactic FM](https://intergalacticfm.com/) - a non stop mix of incredible disco and italo, [Richard Skelton](https://open.spotify.com/album/4m6zYEEfGTMEF9hQls3ZBj) (and his '[The Inward Circles](https://theinwardcircles.bandcamp.com/album/belated-movements-for-an-unsanctioned-exhumation-august-1st-1984)' alter ego) and [Chrononautz](http://thequietus.com/articles/18314-chrononautz-noments-stream).
