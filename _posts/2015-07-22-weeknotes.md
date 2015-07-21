@@ -7,7 +7,7 @@ For the last two weeks, I was on holiday in France!
 
 ![](https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11352288_950985818276449_748165880_n.jpg)
 
-I did find the time to read Don Norman's "The Design of Everyday things" while
+I did find the time to read Don Norman's "[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)" while
 I was away though, which was a really useful introduction to the psychology of
 interaction, and refresher of some basics of interaction design, and the
 human-centred design process. At times I felt that he places a little too much
