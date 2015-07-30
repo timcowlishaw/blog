@@ -51,7 +51,7 @@ popularity of Jeremy's campaign is a better indicator of his popularity in the
 country at large than the reckons of those party functionaries at headquarters who
 for some reason believe that they've a miraculous gift to predict the future.
 
-We live in a country with a GDP per head of twenty-five thousand points a year,
+We live in a country with a GDP per head of twenty-five thousand pounds a year,
 but a quarter of us live in poverty.  We've a proud tradition of representative
 democracy, but thirty-five percent of the electorate felt so disenfranchised by Westminster
 politics that they *didn't even turn up to vote* last May. I believe we should
