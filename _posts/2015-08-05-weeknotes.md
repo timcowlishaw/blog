@@ -20,6 +20,7 @@ In other news, I started using [Spacemacs](https://github.com/syl20bnr/spacemacs
 Outside work, My friend [Tom](https://twitter.com/rentalcustard) came to stay for the weekend, and we had a great bike ride out through Epping Forest, along with [Ben](http://benfields.net/) and [Aanand](http://aanandprasad.com/). I also spent Saturday afternoon out leafleting for the Jeremy Corbyn campaign in Walthamstow town centre, which was a thoroughly enjoyable experience - I met so many of our neighbours who were friendly and enthusiastic about the campaign. Finally, on Monday evening, Tom, Vicky and myself all went to Cafe OTO for a gig put on by my friends at [The Quietus](http://thequietus.com/) featuring [Hirvikolari](https://www.facebook.com/hirvikolari), [Chrononautz](https://chrononautz.bandcamp.com/) and [Sly and the Family Drone](https://familydrone.bandcamp.com/) which was absolutely incredible.
 
 **Interesting links**:
+
  * Jessica Kerr on [how functional programming techniques can improve the testability of your software while avoiding needing mocks](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/).
  * [The history of the .io domain](http://citizen-ex.com/stories/io) a fascinating study of how history and politics shape our technological infrastructure.
  * This [introduction to the Windows COM APIs](http://www.moserware.com/2008/01/finally-understanding-com-after.html) which was caused a huge "a-ha!" for me and helped massively in getting past a lot of difficulties with my task logger software.
