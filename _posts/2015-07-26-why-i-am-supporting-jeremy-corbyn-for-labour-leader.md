@@ -60,5 +60,5 @@ a party (and as Labour activists, councillors and MPs) to stand up for the
 rights of the working people of this country.  I believe that of all the
 candidates on the ballot, Jeremy Corbyn is the only one with the vision, and the
 track record as a campaigner, to put that right, and put it right we must, both
-because it is right in and of itself, and  because once we start representing the i
+because it is right in and of itself, and  because once we start representing the
 working people of this country again, they'll start voting for us again. Thank you.
